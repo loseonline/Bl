@@ -238,7 +238,7 @@ try {
 'EN: Automatically start next game after finishing.'));
 
 	const pauseResumeButton = document.createElement('button');
-	pauseResumeButton.textContent = 'Pause';
+	pauseResumeButton.textContent = 'Bekle';
 	pauseResumeButton.className = 'pause-resume-btn';
 	pauseResumeButton.onclick = toggleGamePause;
 	settingsMenu.appendChild(pauseResumeButton);
@@ -539,7 +539,7 @@ try {
 
 	function toggleGamePause() {
 		isGamePaused = !isGamePaused;
-		pauseResumeButton.textContent = isGamePaused ? 'Resume' : 'Pause';
+		pauseResumeButton.textContent = isGamePaused ? 'Devam Et' : 'Bekle';
 		pauseResumeButton.style.backgroundColor = isGamePaused ? '#e5c07b' : '#98c379';
 	}
 } catch (e) {
