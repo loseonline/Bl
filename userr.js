@@ -6,8 +6,8 @@
 // @match        https://telegram.blum.codes/*
 // @grant        none
 // @icon         https://cdn.prod.website-files.com/65b6a1a4a0e2af577bccce96/65ba99c1616e21b24009b86c_blum-256.png
-// @downloadURL  https://github.com/loseonline/Bl/raw/main/user.js
-// @updateURL    https://github.com/loseonline/Bl/raw/main/user.js
+// @downloadURL  https://github.com/loseonline/Bl/raw/main/userr.js
+// @updateURL    https://github.com/loseonline/Bl/raw/main/userr.js
 // @homepage     https://github.com/loseonline/Bl
 // ==/UserScript==
 
